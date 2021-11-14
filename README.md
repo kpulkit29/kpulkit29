@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pulkit</h1>
 <h3 align="center">UI Engineer @Flipkart, ex-Wingify, Open source enthusiast</h3>
 
-- ⚡ Fun fact **I sometimes stream on twitch**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kpulkit29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kpulkit29" height="30" width="40" /></a>
