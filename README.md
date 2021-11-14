@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pulkit</h1>
-<h3 align="center">Software Engineer @flipkart, ex-Wingify, Open source enthusiast</h3>
+<h3 align="center">UI Engineer @Flipkart, ex-Wingify, Open source enthusiast</h3>
 
 - ⚡ Fun fact **I sometimes stream on twitch**
 
