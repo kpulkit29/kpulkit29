@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pulkit</h1>
-<h3 align="center">UI Engineer @Flipkart, ex-Wingify, Open source enthusiast</h3>
+<h3 align="center">Frontend Engineer @Amazon, Open source enthusiast</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
